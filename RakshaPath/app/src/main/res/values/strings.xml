@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RakshaPath</string>
+    <string name="logo">App Logo</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Name</string>
+    <string name="no_account_register">Don\'t have an account? Register</string>
+    <string name="already_have_account">Already have an account? Login</string>
+</resources>

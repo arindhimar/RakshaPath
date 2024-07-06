@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922283355153",
+    "project_id": "rakshapath-5cc40",
+    "storage_bucket": "rakshapath-5cc40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922283355153:android:176bb5d00dcab5048815b0",
+        "android_client_info": {
+          "package_name": "com.example.rakshapath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlB0CxCFdJexUBHyR0gUO468fNBJbSlsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
